@@ -1,2 +1,2 @@
-# NAME:supakorn booranachart
-# STUDENT ID:660610798
+# NAME:Supakorn booranachart
+# STUDENT ID: 660610798
